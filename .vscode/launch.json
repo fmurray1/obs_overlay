@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: life_overlay_gen",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\life_overlay_gen.py",
+            "args": [
+                "40"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+    ]
+}
